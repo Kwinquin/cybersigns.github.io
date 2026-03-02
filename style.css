@@ -17,6 +17,15 @@ h1{
     text-shadow: -2px, 2px, 2px, #013501;
 }
 
+#opening{
+    position: absolute;
+    top: 0;
+
+    border-style: solid;
+    border-width: 4px;
+    border-color: silver;
+}
+
 h2{
     color:#068306;
     margin: 20px;
@@ -24,3 +33,4 @@ h2{
     margin-left: 20px;
 
 }
+
