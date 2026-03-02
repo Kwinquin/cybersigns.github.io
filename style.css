@@ -2,19 +2,8 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 12pt;
-    color: #008F11;
+    color: #00b215;
     background-color: #0D0208;
-}
-
-h1{
-    color:#065a06;
-    text-align: center;
-    font-size: 1.5em;
-
-    border-style: solid;
-    border-width:4px;
-    border-color:#3a3a3a;
-    text-shadow: -2px, 2px, 2px, #013501;
 }
 
 #opening{
@@ -25,14 +14,33 @@ h1{
 
     border-style: solid;
     border-width: 4px;
-    border-color: silver;
+    border-color: rgb(34, 0, 55);
+}
+
+h1{
+    color:#d33cd5;
+    text-align: center;
+    font-size: 4em;
+
+
+    border-style: solid;
+    border-width:4px;
+    border-color:#4a006a;
+    text-shadow: -2px, 2px, 2px, #8a378e;
 }
 
 h2{
-    color:#068306;
+    color:#143c14;
     margin: 20px;
     padding: 40px;
+    font-size: 2em;
     margin-left: 20px;
-
 }
+
+h3{
+    font-style:italic;
+    text-align: right;
+}
+
+
 
