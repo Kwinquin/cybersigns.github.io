@@ -1,9 +1,13 @@
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 12pt;
+    font-size: 14pt;
     color: #00b215;
     background-color: #0D0208;
+}
+
+p{
+    line-height:1.5em;
 }
 
 #opening{
@@ -72,7 +76,7 @@ h1{
 }
 
 h2{
-    color:#3cbc3c;
+    color:#59ebce;
     margin: 20px;
     padding: 40px;
     font-size: 2em;
