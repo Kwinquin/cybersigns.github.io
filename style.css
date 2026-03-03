@@ -11,9 +11,9 @@ body {
     border-width: 4px;
     border-color: rgb(34, 0, 55);
 }
-
 hr.open{
-   color:rgb(34, 0, 55);
+   background-color:rgb(34, 0, 55);
+   border-color:rgb(34, 0, 55);
    height:4px 
 }
 
@@ -22,14 +22,44 @@ hr.open{
     border-width: 4px;
     border-color:rgb(105, 0, 80);
 }
-
 hr.cworlds{
-    color:rgb(105, 0, 80);
+    background-color:rgb(105, 0, 80);
+    border-color:rgb(105, 0, 80);
     height:4px
 }
 
+#ourworld{
+    border-style: solid;
+    border-width: 4px;
+    border-color:#004100
+}
+hr.realworld{
+    background-color:#004100;
+    height:4px;
+    border-color: #004100;
+}
 
+#losangeles{
+    border-style: solid;
+    border-width: 4px;
+    border-color:rgb(3, 85, 117);
+}
+hr.LA{
+    background-color:rgb(3, 85, 117);
+    height:4px;
+    border-color:rgb(3, 85, 117);
+}
 
+#conclusion{
+    border-style: solid;
+    border-width: 4px;
+    border-color:rgb(20, 3, 117);
+}
+hr.thus{
+    background-color:rgb(20, 3, 117);
+    height:4px;
+    border-color:rgb(20, 3, 117);
+}
 
 h1{
     color:#d33cd5;
@@ -42,11 +72,12 @@ h1{
 }
 
 h2{
-    color:#143c14;
+    color:#3cbc3c;
     margin: 20px;
     padding: 40px;
     font-size: 2em;
     margin-left: 20px;
+    font-weight:bold;
 }
 
 h3{
