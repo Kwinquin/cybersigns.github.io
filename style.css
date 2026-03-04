@@ -126,7 +126,6 @@ text-align:center;
 }
 
 video{
-    object-fit: cover;
     width: 1200px;
     height: 1440px;
 }
