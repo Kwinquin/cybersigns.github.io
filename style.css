@@ -134,6 +134,12 @@ h6{
     color: rgb(0, 120, 167);
 }
 
+#video{
+overflow: hidden;
+}
 
+video{
+object-fit: cover;
+}
 
 
