@@ -7,8 +7,6 @@ body {
     margin-right:0;
     margin-left:0;
     font-weight:500;
-
-    overflow: hidden;
 }
 
 p{
@@ -126,7 +124,8 @@ text-align:center;
 }
 
 video{
-    object-fit: cover;
+    width:50%;
+    height:50%;
 }
 
 h6{
