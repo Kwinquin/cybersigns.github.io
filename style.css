@@ -4,18 +4,21 @@ body {
     font-size: 14pt;
     color: #00b215;
     background-color: #0D0208;
-    margin-right:1in;
-    margin-left:1in;
+
     font-weight:500;
 }
 
 p{
     line-height:1.5em;
+    margin-right:1in;
+    margin-left:1in;
 }
 
 .p2{
     line-height:1.5em;
-    color:#B2009D;
+    color:#d56fc9;
+    margin-right:1in;
+    margin-left:1in;
 }
 
 #opening{
@@ -112,15 +115,14 @@ h4{ /*the LOADING messages*/
 
 h5{ /*next*/
 padding: 50px;
-font-size:2em;
+font-size: 20pt;
 font-weight:bold;
 color:aqua;
 text-align:center;
 }
 
 video{
-    width:fit-content;
-    height:fit-content;
+    object-fit: cover;
 }
 
 
